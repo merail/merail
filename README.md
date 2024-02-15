@@ -22,7 +22,7 @@ Love coding and sharing it with people!
 ![Figma](https://img.shields.io/badge/Postman-EF5B25?logo=postman&logoColor=FFFFFF&style=for-the-badge)
 
 ### Github stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=merail)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merail&show_icons=true&theme=dark)
 
 ### Contacts
 <a href="https://t.me/merail"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
