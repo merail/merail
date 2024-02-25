@@ -19,12 +19,13 @@ Love coding and sharing it with people!
 ### Using instruments
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Postman-EF5B25?logo=postman&logoColor=FFFFFF&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-EF5B25?logo=postman&logoColor=FFFFFF&style=for-the-badge)
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merail&show_icons=true&theme=dark)
 
 ### Contacts
+<a href="https://merail.github.io"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub Pages&color=FFFFFF&logo=GitHub&logoColor=181717&label="/></a> 
 <a href="https://t.me/merail"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
 <a href="https://www.instagram.com/rail_mescherov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E1306C&logo=Instagram&logoColor=FFFFFF&label="/></a> 
 
