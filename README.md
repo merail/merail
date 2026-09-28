@@ -22,7 +22,7 @@ Love coding and sharing it with people!
 ![Postman](https://img.shields.io/badge/Postman-EF5B25?logo=postman&logoColor=FFFFFF&style=for-the-badge)
 
 ### Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merail&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=merail&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ### Contacts
 <a href="https://merail.github.io"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub%20Pages&color=FFFFFF&logo=GitHub&logoColor=181717&label="/></a> 
